@@ -1,0 +1,284 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+
+.bg-container-main{
+    background-color: #f8f9fa;
+    position: relative;
+    
+}
+
+body{
+    font-family: Poppins, sans-serif;
+}
+
+
+
+.fly-logo {
+    width: 200px;
+}
+
+
+
+/*-----------services---------*/
+
+#services{
+    padding-top: 90px;
+}
+
+.description-1 {
+    color: #616c7c;
+}
+
+.para-1 {
+    color: #7b8794;
+}
+
+.card-container-1 {
+    padding: 16px;
+    margin-bottom: 32px;
+    min-height: 300px;
+}
+
+.image-1 {
+    width: 100px;
+    margin-bottom: 12px;
+    
+}
+
+
+
+/*----------products-----------*/
+
+#products{
+    padding-top: 90px;
+}
+
+.card-container-2 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png');
+    background-size: cover;
+    color: #ffffff;
+    padding: 16px;
+    height: 50vh;
+    margin-bottom: 16px;
+    border-radius: 8px;
+}
+
+.button-2 {
+    background-color: #ffffff;
+    color: #ff9f00;
+    border-radius: 16px;
+    border-width: 0;
+    width: 120px;
+    padding: 8px;
+}
+
+.buy-now {
+    background-color: #ffffff;
+    padding: 8px;
+    border-width: 1px;
+    border-radius: 6px;
+}
+
+.modal-title {
+    color: #323f4b;
+}
+
+.modal-body {
+    color: #183b56;
+}
+
+.card-container-22 {
+    background-image: url('https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png');
+    background-size: cover;
+    color: #ffffff;
+    padding: 16px;
+    height: 50vh;
+    border-radius: 8px;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+    
+}
+
+a:hover{
+    color: #ff9f00;
+    text-decoration: none;
+    cursor: pointer;
+  
+}
+
+/*----------offers-----------*/
+
+
+
+.bg-container-3 {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    height: 100%;
+    padding-bottom: 32px;
+    padding-top: 32px;
+    margin-top: 32px;
+}
+
+.heading-3 {
+    color: #ad2167;
+    font-family: "bree Serif";
+    font-size: 2em;
+    margin-top: 16px;
+}
+
+.discount-3 {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.para-3 {
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+
+.fridge-3 {
+    width: 100%;
+}
+
+
+/*----------Explore Deals and offers-----------*/
+
+#Deals{
+    padding-top: 45px;
+}
+
+.bg-container-5 {
+    padding-top: 32px;
+    
+}
+
+.card-container-5 {
+    padding: 18px;
+    border-radius: 8px;
+    background-color: #ffffff;
+    min-height: 580px;
+    
+}
+
+.headings-5 {
+    color: #1f2933;
+    font-size: 2rem;
+    margin-bottom: 16px;
+    margin: 16px 0 32px 0;
+}
+
+.image-5 {
+    border-radius: 12px;
+    margin-bottom: 16px;
+}
+
+.para-5 {
+    color: #183b56;
+}
+
+.Details-5 {
+    color: #ff9f00;
+    font-weight: bold;
+}
+
+/*----------TrendingBlogs-----------*/
+
+#TrendingBlogs{
+    padding-top: 45px;
+}
+
+.headings-4 {
+    color: #183b56;
+    font-size: 1.75rem;
+    font-weight: 600;
+    margin-bottom: 32px;
+    margin-top: 24px;
+}
+
+.card-container-4 {
+    margin-bottom: 16px;
+}
+
+.card-content-4 {
+    padding: 12px;
+}
+
+.para-4 {
+    color: #959ead;
+    font-weight: normal;
+}
+
+.read-more-4 {
+    color: #ff9f00;
+    font-weight: 700;
+}
+
+
+
+
+/*----------ContactUs-----------*/
+
+.bg-container-6 {
+    
+    height: 30vh;
+    text-align: center;
+}
+
+.heading-6 {
+    color: #183b56;
+    margin-bottom: 16px;
+}
+
+.button-6 {
+    background-color: #ffffff;
+    color: #ff9f00;
+    font-weight: 500;
+    border-width: 1px;
+    border-color: #ff9f00;
+    border: solid;
+    width: 150px;
+    padding: 8px;
+}
+
+/*----------footer-----------*/
+
+
+.bg-container-7 {
+    padding-top: 32px;
+    background-color: #0d2436;
+    color: #5a7184;
+}
+
+.icon-container-7 {
+    background-color: #152c3e;
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    padding-top: 14px;
+    padding-left: 16px;
+    padding-right: 12px;
+    margin-right: 8px;
+    margin-bottom: 16px;
+}
+
+.icon-7 {
+    font-size: 1.25em;
+    color: #5a7184;
+
+}
+
+.heading-7{
+    font-size: 1.4rem;
+    font-weight: 600;
+}
+
+.para-7 {
+    color: #5a7184;
+    font-weight: 500;
+}
+
+.line-7 {
+    background-color: #5a7184;
+}
